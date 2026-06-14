@@ -22,3 +22,5 @@ Use Case:
 Predict the estimated price of a house based on its area in square feet.
 
 <img width="690" height="536" alt="image" src="https://github.com/user-attachments/assets/4254fab7-1849-470c-842e-d02b288ec27d" />
+
+ <matplotlib.collections.PathCollection at 0x795261ead3d0>
